@@ -17,12 +17,13 @@ cd nome-da-pasta
 code .
 ```
 
-### 3. Rode a aplicação
+### 3. Instale o nodemon e rode a aplicação
 
 - Na pasta backend clique com o botão direito do mouse e clique em "Open in integrated terminal"
 
-- No terminal rode a aplicação com:
+- No terminal execute o seguinte script para instalar o nodemon e executar a aplicação:
 
 ```bash
+npm i nodemon -D
 npm run dev
 ```
