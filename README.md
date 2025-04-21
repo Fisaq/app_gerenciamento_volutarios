@@ -17,14 +17,12 @@ cd nome-da-pasta
 code .
 ```
 
-### 3. Instale as dependências
+### 3. Rode a aplicação
 
 - Na pasta backend clique com o botão direito do mouse e clique em "Open in integrated terminal"
 
-- No terminal instale as dependências com:
+- No terminal rode a aplicação com:
 
 ```bash
-npm init -y
-npm i express dotenv mongoose
-npm i nodemon -D
+npm run dev
 ```
