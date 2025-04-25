@@ -23,7 +23,7 @@ async function main () {
         res.send({
             sucess: true,
             statusCode: 200,
-            body: 'Welcome to iServer! '
+            body: 'Welcome to iServer!'
         })
     })
 
